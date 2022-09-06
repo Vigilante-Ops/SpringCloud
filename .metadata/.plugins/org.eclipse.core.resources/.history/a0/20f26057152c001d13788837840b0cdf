@@ -1,0 +1,5 @@
+package com.aman.springcloud.restclients;
+
+public interface CouponClient {
+
+}

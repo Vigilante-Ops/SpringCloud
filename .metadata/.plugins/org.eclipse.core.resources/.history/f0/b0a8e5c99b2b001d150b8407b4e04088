@@ -1,0 +1,6 @@
+package com.aman.springcloud.model;
+@Entity
+public class Coupon {
+
+	private Long  id;
+}

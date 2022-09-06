@@ -1,0 +1,5 @@
+package com.aman.springcloud.controllers;
+
+public class CouponController {
+
+}

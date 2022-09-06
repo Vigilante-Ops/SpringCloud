@@ -1,0 +1,5 @@
+package com.aman.springcloud;
+
+public class ProductController {
+
+}

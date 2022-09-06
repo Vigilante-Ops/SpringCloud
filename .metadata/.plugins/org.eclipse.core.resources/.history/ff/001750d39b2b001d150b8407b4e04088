@@ -1,0 +1,9 @@
+package com.aman.springcloud.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Coupon {
+    @Id
+	private Long  id;
+}
